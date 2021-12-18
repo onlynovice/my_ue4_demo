@@ -2,6 +2,11 @@
 
 时间仓促，只做了一周，没有玩法，没有ui
 
+演示视频：https://www.bilibili.com/video/BV1FL4y1n7cx
+
+pc版打包好的游戏：https://disk.pku.edu.cn:443/link/FBA3ABCA380EA7F899BF9E5095F40205
+有效期限：2023-01-01 23:59
+
 ## 已完成内容：
 
 ### 动作系统
